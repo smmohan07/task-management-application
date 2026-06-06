@@ -1,0 +1,31 @@
+{
+  "users": [
+    {
+      "id": "KviDtnw7YYBccxwU6u0Bm",
+      "name": "Joshna K",
+      "email": "joshnasunil024@gmail.com",
+      "password": "$2a$10$PoCor3erMtVNNS3ofE7pS./4gnjMhVMXGZEVdGNFVLSq0W/jyR/DW",
+      "createdAt": "2026-06-06T10:46:13.193Z"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "jmsb5ctYxcLsaIcCaHuQ8",
+      "userId": "KviDtnw7YYBccxwU6u0Bm",
+      "title": "Read",
+      "description": "focus on studies, prepare for maths test.",
+      "status": "completed",
+      "createdAt": "2026-06-06T10:46:58.133Z",
+      "updatedAt": "2026-06-06T10:49:49.555Z"
+    },
+    {
+      "id": "_Q9WiJvW_fXVhkQw0noVE",
+      "userId": "KviDtnw7YYBccxwU6u0Bm",
+      "title": "Gym",
+      "description": "Workouts, fitness training",
+      "status": "pending",
+      "createdAt": "2026-06-06T10:50:19.372Z",
+      "updatedAt": "2026-06-06T10:50:19.372Z"
+    }
+  ]
+}
